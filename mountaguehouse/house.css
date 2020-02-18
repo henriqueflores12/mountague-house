@@ -1,0 +1,11 @@
+body{
+    color:black;
+}
+
+
+
+#content{
+  display: flex;
+  justify-items:space-around;
+
+}
