@@ -1,11 +1,23 @@
 body{
-    color:black;
+    background-color:black;
+    display: grid;
+    justify-content: center;
+
+}
+h1{
+  color: pink;
+  font-style: italic;
+  font-size: 20mm;
 }
 
 
-
 #content{
-  display: flex;
-  justify-items:space-around;
+  font-style: italic;
+  display: grid;
+  justify-content: center;
+  color: whitesmoke;
 
+}
+#cost{
+  font-style: oblique;
 }
